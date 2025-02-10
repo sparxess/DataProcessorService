@@ -1,0 +1,6 @@
+@DataProcessorService.HttpApi.Host_HostAddress = http://localhost:5279
+
+GET {{DataProcessorService.HttpApi.Host_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
